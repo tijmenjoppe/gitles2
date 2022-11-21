@@ -1,7 +1,6 @@
 # Project _Steam_
 
-GitHub repository ten behoeve van Steam Git les.
+Een repository ten behoeve van de Steam les over git.
 
 Auteur:
 * Tijmen Muller (tijmen.muller@hu.nl)
-* Jeffrey Matray
