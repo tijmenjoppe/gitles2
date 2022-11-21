@@ -1,2 +1,2 @@
-print("Hello, students!")
+print("Hallo studenten!")
 print("Welkom bij deze les...")
